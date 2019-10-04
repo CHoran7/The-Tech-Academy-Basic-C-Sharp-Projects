@@ -1,0 +1,7 @@
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.csprojAssemblyReference.cache
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.csproj.CoreCompileInputs.cache
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.exe.config
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.exe
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.pdb
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.exe
+C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.pdb
