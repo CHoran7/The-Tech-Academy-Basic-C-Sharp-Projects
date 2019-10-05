@@ -5,3 +5,10 @@ C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\bin\Debug\Matha
 C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.pdb
 C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.exe
 C:\Users\Cole\source\repos\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.pdb
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.exe.config
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\bin\Debug\MathandComparisons.pdb
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.csprojAssemblyReference.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisons\MathandComparisons\obj\Debug\MathandComparisons.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cole\source\repos\step67\step67\obj\Debug\step67.csprojAssemblyReference.cache
+C:\Users\Cole\source\repos\step67\step67\obj\Debug\step67.csproj.CoreCompileInputs.cache
+C:\Users\Cole\source\repos\step67\step67\bin\Debug\step67.exe.config
+C:\Users\Cole\source\repos\step67\step67\bin\Debug\step67.exe
+C:\Users\Cole\source\repos\step67\step67\bin\Debug\step67.pdb
+C:\Users\Cole\source\repos\step67\step67\obj\Debug\step67.exe
+C:\Users\Cole\source\repos\step67\step67\obj\Debug\step67.pdb
