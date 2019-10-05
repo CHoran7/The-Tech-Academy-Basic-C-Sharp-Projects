@@ -1,0 +1,7 @@
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\bin\Debug\step75.exe.config
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\bin\Debug\step75.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\bin\Debug\step75.pdb
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\obj\Debug\step75.csprojAssemblyReference.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\obj\Debug\step75.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\obj\Debug\step75.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step75\step75\obj\Debug\step75.pdb
