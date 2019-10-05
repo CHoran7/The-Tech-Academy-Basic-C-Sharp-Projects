@@ -1,0 +1,7 @@
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\obj\Debug\step92.csprojAssemblyReference.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\obj\Debug\step92.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\bin\Debug\step92.exe.config
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\bin\Debug\step92.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\bin\Debug\step92.pdb
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\obj\Debug\step92.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step92\step92\obj\Debug\step92.pdb
