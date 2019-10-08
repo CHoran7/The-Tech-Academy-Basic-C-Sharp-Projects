@@ -1,0 +1,7 @@
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\bin\Debug\whileLoops.exe.config
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\bin\Debug\whileLoops.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\bin\Debug\whileLoops.pdb
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\obj\Debug\whileLoops.csprojAssemblyReference.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\obj\Debug\whileLoops.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\whileLoops\whileLoops\obj\Debug\whileLoops.pdb
