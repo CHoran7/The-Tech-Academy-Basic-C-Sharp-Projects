@@ -1,0 +1,7 @@
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\bin\Debug\strings.exe.config
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\bin\Debug\strings.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\bin\Debug\strings.pdb
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\obj\Debug\strings.csprojAssemblyReference.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\obj\Debug\strings.exe
+C:\Users\Cole\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\strings\strings\obj\Debug\strings.pdb
