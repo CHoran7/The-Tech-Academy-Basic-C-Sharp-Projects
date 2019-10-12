@@ -36,7 +36,7 @@ namespace step103
             List<string> horans = new List<string>() { "Cole", "Tucker", "CJ", "Dan" };
             Console.WriteLine("What is the name of the person you  are searching for?");
             string name = Console.ReadLine();
-            for(int i = 0; i < 4; i++)
+            for(int i = 0; i < horans.Count; i++)
             {
                 if (name != horans[i] && i == 3)
                 {
@@ -45,27 +45,48 @@ namespace step103
                 if (name == horans[i])
                 {
                     Console.WriteLine(i);
-                    i = 4;
+                    break;
                 }
             }
 
             List<string> people = new List<string>() { "Cole", "Tucker", "CJ", "Dan", "Laura", "Jack", "CJ", "Dan" };
             Console.WriteLine("What is the name of the person you  are searching for?");
             string family = Console.ReadLine();
-            for (int i = 0; i < 8; i++)
+            bool match = false;
+            for (int i = 0; i < people.Count; i++)
             {
                 if (family == people[i])
                 {
                     Console.WriteLine(i);
-                    bool match = true;
+                    match = true;
                 }
             }
-            //There definetly is a better way to do this but I can't think of it right now
-            if(family != people[0] && family != people[1] && family != people[2] && family != people[3] && family != people[4] && family != people[5] && family != people[6] && family != people[7])
+
+            if(match == false)
             {
                 Console.WriteLine("There is no matching family member.");
             }
 
+            List<string> copy = new List<string>();
+            match = false;
+            foreach (string person in people)
+            {
+                Console.WriteLine(person);
+                for(int i = 0; i < copy.Count; i++)
+                {
+                    if (copy[i] == person)
+                    {
+                        Console.WriteLine("This person has already appeared in the list.");
+                        match = true;
+                    }
+                }
+                if (match == false)
+                {
+                    Console.WriteLine("This person has not appeared on the list.");
+                }
+                copy.Add(person);
+
+            }
             Console.ReadLine();
         }
     }
