@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CCCCB481-2379-4715-A36B-BFBF107FFFD6}</ProjectGuid>
+    <ProjectGuid>{4550582A-E4D3-49D7-835D-5BB2362D9487}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>step117</RootNamespace>
-    <AssemblyName>step117</AssemblyName>
+    <RootNamespace>step120</RootNamespace>
+    <AssemblyName>step120</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class2.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
