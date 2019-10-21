@@ -14,6 +14,8 @@ namespace step120
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+            IQuittable quittable = new Employee();
+            quittable.Quit();
             Console.ReadLine();
         }
     }
