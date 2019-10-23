@@ -22,6 +22,12 @@ namespace TwentyOne
             Deck deck = new Deck();
             deck.Shuffle();
 
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 232 };
+            int sum = numberList.Sum();
+            Console.WriteLine(sum);
+
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
