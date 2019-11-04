@@ -8,7 +8,7 @@ namespace step_162
 {
     public class twoConstructors
     {
-        public twoConstructors(string time) : this(time, 3)
+        public twoConstructors(string time) : this(time, 5)
         {
 
         }
