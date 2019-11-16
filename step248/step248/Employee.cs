@@ -18,7 +18,6 @@ namespace step248
         [MaxLength(50)]
         public string LastName { get; set; }
         [Required]
-        [MaxLength(25)]
         public DateTime StartDate { get; set; }
 
         public virtual ICollection<Start> Starts { get; set; }

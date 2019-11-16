@@ -15,8 +15,6 @@ namespace step248
         public int LocationID { get; set; }
         [Required]
         public int EmployeeID { get; set; }
-        [Required]
-        [MaxLength(10)]
         public double HourlyWage { get; set; }
 
         public virtual Location Location { get; set; }
